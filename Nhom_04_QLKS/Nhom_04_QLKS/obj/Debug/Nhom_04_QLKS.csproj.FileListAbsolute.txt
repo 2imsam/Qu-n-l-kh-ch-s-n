@@ -1,0 +1,96 @@
+C:\Users\KHOI\OneDrive\Máy tính\DOAN_THUY_II\Nhom_04\Nhom_04_QLKS\Nhom_04_QLKS\bin\Debug\Nhom_04_QLKS.exe.config
+C:\Users\KHOI\OneDrive\Máy tính\DOAN_THUY_II\Nhom_04\Nhom_04_QLKS\Nhom_04_QLKS\bin\Debug\Nhom_04_QLKS.exe
+C:\Users\KHOI\OneDrive\Máy tính\DOAN_THUY_II\Nhom_04\Nhom_04_QLKS\Nhom_04_QLKS\bin\Debug\Nhom_04_QLKS.pdb
+C:\Users\KHOI\OneDrive\Máy tính\DOAN_THUY_II\Nhom_04\Nhom_04_QLKS\Nhom_04_QLKS\obj\Debug\Nhom_04_QLKS.csproj.AssemblyReference.cache
+C:\Users\KHOI\OneDrive\Máy tính\DOAN_THUY_II\Nhom_04\Nhom_04_QLKS\Nhom_04_QLKS\obj\Debug\Nhom_04_QLKS.login.resources
+C:\Users\KHOI\OneDrive\Máy tính\DOAN_THUY_II\Nhom_04\Nhom_04_QLKS\Nhom_04_QLKS\obj\Debug\Nhom_04_QLKS.Properties.Resources.resources
+C:\Users\KHOI\OneDrive\Máy tính\DOAN_THUY_II\Nhom_04\Nhom_04_QLKS\Nhom_04_QLKS\obj\Debug\Nhom_04_QLKS.csproj.GenerateResource.cache
+C:\Users\KHOI\OneDrive\Máy tính\DOAN_THUY_II\Nhom_04\Nhom_04_QLKS\Nhom_04_QLKS\obj\Debug\Nhom_04_QLKS.csproj.CoreCompileInputs.cache
+C:\Users\KHOI\OneDrive\Máy tính\DOAN_THUY_II\Nhom_04\Nhom_04_QLKS\Nhom_04_QLKS\obj\Debug\Nhom_04_QLKS.exe
+C:\Users\KHOI\OneDrive\Máy tính\DOAN_THUY_II\Nhom_04\Nhom_04_QLKS\Nhom_04_QLKS\obj\Debug\Nhom_04_QLKS.pdb
+C:\Users\KHOI\OneDrive\Máy tính\DOAN_THUY_II\Nhom_04\Nhom_04_QLKS\Nhom_04_QLKS\obj\Debug\Nhom_04_QLKS.menu.resources
+C:\Users\KHOI\OneDrive\Máy tính\DOAN_THUY_II\Nhom_04\Nhom_04_QLKS\Nhom_04_QLKS\obj\Debug\Nhom_04_QLKS.NhanVien.resources
+C:\Users\KHOI\OneDrive\Máy tính\DOAN_THUY_II\Nhom_04\Nhom_04_QLKS\Nhom_04_QLKS\obj\Debug\Nhom_04_QLKS.DichVu.resources
+C:\Users\KHOI\OneDrive\Máy tính\DOAN_THUY_II\Nhom_04\Nhom_04_QLKS\Nhom_04_QLKS\obj\Debug\Nhom_04_QLKS.Phong.resources
+C:\Users\KHOI\OneDrive\Máy tính\DOAN_THUY_II\Nhom_04\Nhom_04_QLKS\Nhom_04_QLKS\obj\Debug\Nhom_04_QLKS.HoaDon.resources
+C:\Users\KHOI\OneDrive\Máy tính\DOAN_THUY_II\Nhom_04\Nhom_04_QLKS\Nhom_04_QLKS\obj\Debug\Nhom_04_QLKS.KhachHanng.resources
+C:\Users\Acer\Downloads\Nhom_04\Nhom_04_QLKS\Nhom_04_QLKS\bin\Debug\Nhom_04_QLKS.exe.config
+C:\Users\Acer\Downloads\Nhom_04\Nhom_04_QLKS\Nhom_04_QLKS\bin\Debug\Nhom_04_QLKS.exe
+C:\Users\Acer\Downloads\Nhom_04\Nhom_04_QLKS\Nhom_04_QLKS\bin\Debug\Nhom_04_QLKS.pdb
+C:\Users\Acer\Downloads\Nhom_04\Nhom_04_QLKS\Nhom_04_QLKS\obj\Debug\Nhom_04_QLKS.csproj.AssemblyReference.cache
+C:\Users\Acer\Downloads\Nhom_04\Nhom_04_QLKS\Nhom_04_QLKS\obj\Debug\Nhom_04_QLKS.DichVu.resources
+C:\Users\Acer\Downloads\Nhom_04\Nhom_04_QLKS\Nhom_04_QLKS\obj\Debug\Nhom_04_QLKS.HoaDon.resources
+C:\Users\Acer\Downloads\Nhom_04\Nhom_04_QLKS\Nhom_04_QLKS\obj\Debug\Nhom_04_QLKS.KhachHanng.resources
+C:\Users\Acer\Downloads\Nhom_04\Nhom_04_QLKS\Nhom_04_QLKS\obj\Debug\Nhom_04_QLKS.login.resources
+C:\Users\Acer\Downloads\Nhom_04\Nhom_04_QLKS\Nhom_04_QLKS\obj\Debug\Nhom_04_QLKS.menu.resources
+C:\Users\Acer\Downloads\Nhom_04\Nhom_04_QLKS\Nhom_04_QLKS\obj\Debug\Nhom_04_QLKS.NhanVien.resources
+C:\Users\Acer\Downloads\Nhom_04\Nhom_04_QLKS\Nhom_04_QLKS\obj\Debug\Nhom_04_QLKS.Phong.resources
+C:\Users\Acer\Downloads\Nhom_04\Nhom_04_QLKS\Nhom_04_QLKS\obj\Debug\Nhom_04_QLKS.Properties.Resources.resources
+C:\Users\Acer\Downloads\Nhom_04\Nhom_04_QLKS\Nhom_04_QLKS\obj\Debug\Nhom_04_QLKS.csproj.GenerateResource.cache
+C:\Users\Acer\Downloads\Nhom_04\Nhom_04_QLKS\Nhom_04_QLKS\obj\Debug\Nhom_04_QLKS.csproj.CoreCompileInputs.cache
+C:\Users\Acer\Downloads\Nhom_04\Nhom_04_QLKS\Nhom_04_QLKS\obj\Debug\Nhom_04_QLKS.exe
+C:\Users\Acer\Downloads\Nhom_04\Nhom_04_QLKS\Nhom_04_QLKS\obj\Debug\Nhom_04_QLKS.pdb
+C:\Users\KHOI\OneDrive\Máy tính\DOAN_THUY_II\Nhom04_Done\Nhom_04_QLKS\Nhom_04_QLKS\bin\Debug\Nhom_04_QLKS.exe.config
+C:\Users\KHOI\OneDrive\Máy tính\DOAN_THUY_II\Nhom04_Done\Nhom_04_QLKS\Nhom_04_QLKS\bin\Debug\Nhom_04_QLKS.exe
+C:\Users\KHOI\OneDrive\Máy tính\DOAN_THUY_II\Nhom04_Done\Nhom_04_QLKS\Nhom_04_QLKS\bin\Debug\Nhom_04_QLKS.pdb
+C:\Users\KHOI\OneDrive\Máy tính\DOAN_THUY_II\Nhom04_Done\Nhom_04_QLKS\Nhom_04_QLKS\obj\Debug\Nhom_04_QLKS.csproj.AssemblyReference.cache
+C:\Users\KHOI\OneDrive\Máy tính\DOAN_THUY_II\Nhom04_Done\Nhom_04_QLKS\Nhom_04_QLKS\obj\Debug\Nhom_04_QLKS.DichVu.resources
+C:\Users\KHOI\OneDrive\Máy tính\DOAN_THUY_II\Nhom04_Done\Nhom_04_QLKS\Nhom_04_QLKS\obj\Debug\Nhom_04_QLKS.HoaDon.resources
+C:\Users\KHOI\OneDrive\Máy tính\DOAN_THUY_II\Nhom04_Done\Nhom_04_QLKS\Nhom_04_QLKS\obj\Debug\Nhom_04_QLKS.KhachHanng.resources
+C:\Users\KHOI\OneDrive\Máy tính\DOAN_THUY_II\Nhom04_Done\Nhom_04_QLKS\Nhom_04_QLKS\obj\Debug\Nhom_04_QLKS.login.resources
+C:\Users\KHOI\OneDrive\Máy tính\DOAN_THUY_II\Nhom04_Done\Nhom_04_QLKS\Nhom_04_QLKS\obj\Debug\Nhom_04_QLKS.menu.resources
+C:\Users\KHOI\OneDrive\Máy tính\DOAN_THUY_II\Nhom04_Done\Nhom_04_QLKS\Nhom_04_QLKS\obj\Debug\Nhom_04_QLKS.NhanVien.resources
+C:\Users\KHOI\OneDrive\Máy tính\DOAN_THUY_II\Nhom04_Done\Nhom_04_QLKS\Nhom_04_QLKS\obj\Debug\Nhom_04_QLKS.Phong.resources
+C:\Users\KHOI\OneDrive\Máy tính\DOAN_THUY_II\Nhom04_Done\Nhom_04_QLKS\Nhom_04_QLKS\obj\Debug\Nhom_04_QLKS.Properties.Resources.resources
+C:\Users\KHOI\OneDrive\Máy tính\DOAN_THUY_II\Nhom04_Done\Nhom_04_QLKS\Nhom_04_QLKS\obj\Debug\Nhom_04_QLKS.csproj.GenerateResource.cache
+C:\Users\KHOI\OneDrive\Máy tính\DOAN_THUY_II\Nhom04_Done\Nhom_04_QLKS\Nhom_04_QLKS\obj\Debug\Nhom_04_QLKS.csproj.CoreCompileInputs.cache
+C:\Users\KHOI\OneDrive\Máy tính\DOAN_THUY_II\Nhom04_Done\Nhom_04_QLKS\Nhom_04_QLKS\obj\Debug\Nhom_04_QLKS.exe
+C:\Users\KHOI\OneDrive\Máy tính\DOAN_THUY_II\Nhom04_Done\Nhom_04_QLKS\Nhom_04_QLKS\obj\Debug\Nhom_04_QLKS.pdb
+D:\loan\Nhom04_Done\Nhom_04_QLKS\Nhom_04_QLKS\bin\Debug\Nhom_04_QLKS.exe.config
+D:\loan\Nhom04_Done\Nhom_04_QLKS\Nhom_04_QLKS\bin\Debug\Nhom_04_QLKS.exe
+D:\loan\Nhom04_Done\Nhom_04_QLKS\Nhom_04_QLKS\bin\Debug\Nhom_04_QLKS.pdb
+D:\loan\Nhom04_Done\Nhom_04_QLKS\Nhom_04_QLKS\obj\Debug\Nhom_04_QLKS.csproj.AssemblyReference.cache
+D:\loan\Nhom04_Done\Nhom_04_QLKS\Nhom_04_QLKS\obj\Debug\Nhom_04_QLKS.DichVu.resources
+D:\loan\Nhom04_Done\Nhom_04_QLKS\Nhom_04_QLKS\obj\Debug\Nhom_04_QLKS.HOADON1.resources
+D:\loan\Nhom04_Done\Nhom_04_QLKS\Nhom_04_QLKS\obj\Debug\Nhom_04_QLKS.KhachHanng.resources
+D:\loan\Nhom04_Done\Nhom_04_QLKS\Nhom_04_QLKS\obj\Debug\Nhom_04_QLKS.login.resources
+D:\loan\Nhom04_Done\Nhom_04_QLKS\Nhom_04_QLKS\obj\Debug\Nhom_04_QLKS.menu.resources
+D:\loan\Nhom04_Done\Nhom_04_QLKS\Nhom_04_QLKS\obj\Debug\Nhom_04_QLKS.NhanVien.resources
+D:\loan\Nhom04_Done\Nhom_04_QLKS\Nhom_04_QLKS\obj\Debug\Nhom_04_QLKS.Phong.resources
+D:\loan\Nhom04_Done\Nhom_04_QLKS\Nhom_04_QLKS\obj\Debug\Nhom_04_QLKS.Properties.Resources.resources
+D:\loan\Nhom04_Done\Nhom_04_QLKS\Nhom_04_QLKS\obj\Debug\Nhom_04_QLKS.csproj.GenerateResource.cache
+D:\loan\Nhom04_Done\Nhom_04_QLKS\Nhom_04_QLKS\obj\Debug\Nhom_04_QLKS.csproj.CoreCompileInputs.cache
+D:\loan\Nhom04_Done\Nhom_04_QLKS\Nhom_04_QLKS\obj\Debug\Nhom_04_QLKS.exe
+D:\loan\Nhom04_Done\Nhom_04_QLKS\Nhom_04_QLKS\obj\Debug\Nhom_04_QLKS.pdb
+C:\Users\KHOI\Documents\Zalo Received Files\Nhom04_Done\Nhom04_Done\Nhom_04_QLKS\Nhom_04_QLKS\bin\Debug\Nhom_04_QLKS.exe.config
+C:\Users\KHOI\Documents\Zalo Received Files\Nhom04_Done\Nhom04_Done\Nhom_04_QLKS\Nhom_04_QLKS\bin\Debug\Nhom_04_QLKS.exe
+C:\Users\KHOI\Documents\Zalo Received Files\Nhom04_Done\Nhom04_Done\Nhom_04_QLKS\Nhom_04_QLKS\bin\Debug\Nhom_04_QLKS.pdb
+C:\Users\KHOI\Documents\Zalo Received Files\Nhom04_Done\Nhom04_Done\Nhom_04_QLKS\Nhom_04_QLKS\obj\Debug\Nhom_04_QLKS.csproj.AssemblyReference.cache
+C:\Users\KHOI\Documents\Zalo Received Files\Nhom04_Done\Nhom04_Done\Nhom_04_QLKS\Nhom_04_QLKS\obj\Debug\Nhom_04_QLKS.DichVu.resources
+C:\Users\KHOI\Documents\Zalo Received Files\Nhom04_Done\Nhom04_Done\Nhom_04_QLKS\Nhom_04_QLKS\obj\Debug\Nhom_04_QLKS.HOADON1.resources
+C:\Users\KHOI\Documents\Zalo Received Files\Nhom04_Done\Nhom04_Done\Nhom_04_QLKS\Nhom_04_QLKS\obj\Debug\Nhom_04_QLKS.KhachHanng.resources
+C:\Users\KHOI\Documents\Zalo Received Files\Nhom04_Done\Nhom04_Done\Nhom_04_QLKS\Nhom_04_QLKS\obj\Debug\Nhom_04_QLKS.login.resources
+C:\Users\KHOI\Documents\Zalo Received Files\Nhom04_Done\Nhom04_Done\Nhom_04_QLKS\Nhom_04_QLKS\obj\Debug\Nhom_04_QLKS.menu.resources
+C:\Users\KHOI\Documents\Zalo Received Files\Nhom04_Done\Nhom04_Done\Nhom_04_QLKS\Nhom_04_QLKS\obj\Debug\Nhom_04_QLKS.NhanVien.resources
+C:\Users\KHOI\Documents\Zalo Received Files\Nhom04_Done\Nhom04_Done\Nhom_04_QLKS\Nhom_04_QLKS\obj\Debug\Nhom_04_QLKS.Phong.resources
+C:\Users\KHOI\Documents\Zalo Received Files\Nhom04_Done\Nhom04_Done\Nhom_04_QLKS\Nhom_04_QLKS\obj\Debug\Nhom_04_QLKS.Properties.Resources.resources
+C:\Users\KHOI\Documents\Zalo Received Files\Nhom04_Done\Nhom04_Done\Nhom_04_QLKS\Nhom_04_QLKS\obj\Debug\Nhom_04_QLKS.csproj.GenerateResource.cache
+C:\Users\KHOI\Documents\Zalo Received Files\Nhom04_Done\Nhom04_Done\Nhom_04_QLKS\Nhom_04_QLKS\obj\Debug\Nhom_04_QLKS.csproj.CoreCompileInputs.cache
+C:\Users\KHOI\Documents\Zalo Received Files\Nhom04_Done\Nhom04_Done\Nhom_04_QLKS\Nhom_04_QLKS\obj\Debug\Nhom_04_QLKS.exe
+C:\Users\KHOI\Documents\Zalo Received Files\Nhom04_Done\Nhom04_Done\Nhom_04_QLKS\Nhom_04_QLKS\obj\Debug\Nhom_04_QLKS.pdb
+C:\Users\avu23\Documents\Zalo Received Files\Nhom04_Done\Nhom04_Done\Nhom_04_QLKS\Nhom_04_QLKS\bin\Debug\Nhom_04_QLKS.exe.config
+C:\Users\avu23\Documents\Zalo Received Files\Nhom04_Done\Nhom04_Done\Nhom_04_QLKS\Nhom_04_QLKS\bin\Debug\Nhom_04_QLKS.exe
+C:\Users\avu23\Documents\Zalo Received Files\Nhom04_Done\Nhom04_Done\Nhom_04_QLKS\Nhom_04_QLKS\bin\Debug\Nhom_04_QLKS.pdb
+C:\Users\avu23\Documents\Zalo Received Files\Nhom04_Done\Nhom04_Done\Nhom_04_QLKS\Nhom_04_QLKS\obj\Debug\Nhom_04_QLKS.csproj.AssemblyReference.cache
+C:\Users\avu23\Documents\Zalo Received Files\Nhom04_Done\Nhom04_Done\Nhom_04_QLKS\Nhom_04_QLKS\obj\Debug\Nhom_04_QLKS.DichVu.resources
+C:\Users\avu23\Documents\Zalo Received Files\Nhom04_Done\Nhom04_Done\Nhom_04_QLKS\Nhom_04_QLKS\obj\Debug\Nhom_04_QLKS.HOADON1.resources
+C:\Users\avu23\Documents\Zalo Received Files\Nhom04_Done\Nhom04_Done\Nhom_04_QLKS\Nhom_04_QLKS\obj\Debug\Nhom_04_QLKS.KhachHanng.resources
+C:\Users\avu23\Documents\Zalo Received Files\Nhom04_Done\Nhom04_Done\Nhom_04_QLKS\Nhom_04_QLKS\obj\Debug\Nhom_04_QLKS.login.resources
+C:\Users\avu23\Documents\Zalo Received Files\Nhom04_Done\Nhom04_Done\Nhom_04_QLKS\Nhom_04_QLKS\obj\Debug\Nhom_04_QLKS.menu.resources
+C:\Users\avu23\Documents\Zalo Received Files\Nhom04_Done\Nhom04_Done\Nhom_04_QLKS\Nhom_04_QLKS\obj\Debug\Nhom_04_QLKS.NhanVien.resources
+C:\Users\avu23\Documents\Zalo Received Files\Nhom04_Done\Nhom04_Done\Nhom_04_QLKS\Nhom_04_QLKS\obj\Debug\Nhom_04_QLKS.Phong.resources
+C:\Users\avu23\Documents\Zalo Received Files\Nhom04_Done\Nhom04_Done\Nhom_04_QLKS\Nhom_04_QLKS\obj\Debug\Nhom_04_QLKS.Properties.Resources.resources
+C:\Users\avu23\Documents\Zalo Received Files\Nhom04_Done\Nhom04_Done\Nhom_04_QLKS\Nhom_04_QLKS\obj\Debug\Nhom_04_QLKS.csproj.GenerateResource.cache
+C:\Users\avu23\Documents\Zalo Received Files\Nhom04_Done\Nhom04_Done\Nhom_04_QLKS\Nhom_04_QLKS\obj\Debug\Nhom_04_QLKS.csproj.CoreCompileInputs.cache
+C:\Users\avu23\Documents\Zalo Received Files\Nhom04_Done\Nhom04_Done\Nhom_04_QLKS\Nhom_04_QLKS\obj\Debug\Nhom_04_QLKS.exe
+C:\Users\avu23\Documents\Zalo Received Files\Nhom04_Done\Nhom04_Done\Nhom_04_QLKS\Nhom_04_QLKS\obj\Debug\Nhom_04_QLKS.pdb
